@@ -1,0 +1,6 @@
+requests
+mechanize
+flask
+colorama
+firebase-admin
+waitress
